@@ -2,7 +2,6 @@
 layout: singlePage
 ---
 
-<br>
 ## My Projects
 
 **See the rest on [my Github page](https://github.com/ia6382?tab=repositories).**\
