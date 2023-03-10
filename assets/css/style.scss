@@ -2,3 +2,36 @@
 ---
 
 @import "jekyll-theme-minimal";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,500;0,700;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,500;0,600;0,700;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap');
+  
+body {
+  font: 15px;
+}
+
+strong {
+  color:#222;
+  font-weight:600;
+}
+
+.portfolio {
+    width: 99%;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.scroll {
+	padding-left: 9px;
+	position:relative
+}
+
+ul.downloads {
+  list-style:none;
+  height:40px;
+  padding:0;
+  background: #ffff;
+  border-radius:0px;
+  border:0px solid #ffff;
+  width:270px;
+}

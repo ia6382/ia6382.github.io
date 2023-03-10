@@ -1,6 +1,18 @@
-title: Minimal theme
+title: IVAN ANTEŠIĆ
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: ivan.v.antesic@gmail.com
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+github:
+  owner_url: https://github.com/ia6382
+  
+itchio:
+  url: https://ivan-antesic.itch.io/
+  
+projects:
+  url: ./projects.html
+  
+email:
+  url: mailto:ivan.v.antesic@gmail.com

@@ -2,9 +2,9 @@
 @import "rouge-github";
 
 body {
-  background-color: #fff;
+  background-color: #ffff;
   padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
 }
@@ -12,6 +12,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
+  font-weight:600;
 }
 
 p, ul, ol, table, pre, dl {
@@ -41,7 +42,7 @@ a {
 
 a:hover, a:focus {
   color:#069;
-  font-weight: bold;
+  font-weight: 600;
 }
 
 a small {
@@ -151,9 +152,9 @@ ul.downloads {
 }
 
 .downloads a {
-  line-height:1;
-  font-size:11px;
-  color:#676767;
+  line-height:2;
+  font-size:14px;
+  color:#727272;
   display:block;
   text-align:center;
   padding-top:6px;
@@ -161,6 +162,7 @@ ul.downloads {
 }
 
 .downloads a:hover, .downloads a:focus {
+  font-size:15px;
   color:#675C5C;
   font-weight:bold;
 }
