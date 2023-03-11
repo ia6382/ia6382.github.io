@@ -2,6 +2,7 @@
 layout: singlePage
 ---
 
+<br>
 ## My Projects
 
 **See the rest on [my Github page](https://github.com/ia6382?tab=repositories).**\
@@ -9,7 +10,7 @@ Click the title for more details.
 
 ___
 
-**[Multi-Agent Pathfinding in a RTS Game](https://github.com/ia6382/OpenRA)**
+**[Multi-Agent Pathfinding in a RTS Game](https://github.com/ia6382/OpenRA#about)**
 * My CS master's thesis
 * An implementation of the seminal multi-agent pathfinding algorithm WHCA* in an open source real-time strategy game engine OpenRA
 * Tests the claims of scientific research that the algorithm is very suitable for use in RTS games

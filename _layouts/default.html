@@ -13,10 +13,18 @@
     {% include head-custom.html %}
   </head>
   <body>
+    <div class="navbar">
+	  <ul>
+        <h1 style="float:left"><a href="{{ "/" | absolute_url }}" style="color:inherit">{{ site.title | default: site.github.repository_name }}</a></h1>
+	    <li style="float:right"><a href="{{ "/" | absolute_url }}">ABOUT</a></li>
+        <li style="float:right"><a href="{{ site.projects.url }}">PROJECTS</a></li>
+      </ul>
+	</div>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}" style="color:inherit">{{ site.title | default: site.github.repository_name }}</a></h1>
-
+        <!---<h1><a href="{{ "/" | absolute_url }}" style="color:inherit">{{ site.title | default: site.github.repository_name }}</a></h1>--->
+		<br>
+		<br>
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
@@ -24,14 +32,13 @@
 		<br>
 		<br>
         <!---<p style="text-align: center">{{ site.description | default: site.github.project_tagline }}</p>--->
-		<p style="text-align: center"><a href="{{ site.email.url }}" style="color:inherit">ivan.v.antesic@gmail.com</a></p>
+		<!---<p style="text-align: center"><a href="{{ site.email.url }}" style="color:inherit">ivan.v.antesic@gmail.com</a></p>--->
 
         {% if site.show_downloads %}
         <ul class="downloads">
-		  <!---<li><a href="{{ site.email.url }}">Email</a></li>--->
+		  <li><a href="{{ site.email.url }}">Email</a></li>
           <li><a href="{{ site.github.owner_url }}">Github</a></li>
           <li><a href="{{ site.itchio.url }}">itch.io</a></li>
-          <li><a href="{{ site.projects.url }}">Projects</a></li>
         </ul>
         {% endif %}
       </header>

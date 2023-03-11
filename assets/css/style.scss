@@ -6,6 +6,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,500;0,600;0,700;1,500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap');
   
+html{
+  scrollbar-gutter:stable;
+}
+
 body {
   font: 15px;
 }
@@ -16,22 +20,43 @@ strong {
 }
 
 .portfolio {
-    width: 99%;
+    width: 100%;
     margin-right:auto;
     margin-left:auto;
 }
 
 .scroll {
-	padding-left: 9px;
+	margin-left: 9px;
 	position:relative
 }
 
-ul.downloads {
-  list-style:none;
-  height:40px;
-  padding:0;
-  background: #ffff;
-  border-radius:0px;
-  border:0px solid #ffff;
-  width:270px;
+.navbar {
+  max-width: 860px;
+  margin-right:auto;
+  margin-left:auto;
+  border-bottom: 3px dotted #e0e0e0;
+  margin-bottom: 20px;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.navbar a {
+  display: block;
+  color: #222;
+  padding-right: 14px;
+}
+
+.active {
+  font-weight:600;
+}
+
+.navbar li {
+  padding-top: 8px;
+  margin-left: 0;
+  padding-left: 0;
 }

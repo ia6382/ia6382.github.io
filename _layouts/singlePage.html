@@ -13,11 +13,19 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <div class="wrapper">  
+    <div class="navbar">
+	  <ul>
+        <h1 style="float:left"><a href="{{ "/" | absolute_url }}" style="color:inherit">{{ site.title | default: site.github.repository_name }}</a></h1>
+	    <li style="float:right"><a href="{{ "/" | absolute_url }}">ABOUT</a></li>
+        <li style="float:right"><a href="{{ site.projects.url }}">PROJECTS</a></li>
+      </ul>
+	</div>
+    <div class="wrapper">
+	  <!---
 	  <header class="scroll">
         <h1><a href="{{ "/" | absolute_url }}" style="color:inherit">{{ site.title | default: site.github.repository_name }}</a></h1>
       </header>
-	
+	  --->
       <section class="portfolio">
 	  
       {{ content }}
