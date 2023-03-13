@@ -35,6 +35,43 @@ ___
 
 ___
 
+**[PC Game SKRAT](https://ivan-antesic.itch.io/skrat)**
+* My CS bachelor's thesis: [Game development from the perspective of an independent developer](http://eprints.fri.uni-lj.si/4151/)
+* Studied the video game production process and created a 2D action pixel art game by following the production phases
+* Made all of the assets except the soundtrack myself
+* *C#, Unity, Adobe Photoshop, Pyxel Edit*
+
+___
+
+<!-- ___
+**[Mobile Game SpikeRust](https://ivan-antesic.itch.io/spikerust)**
+* A simple 2D pixel art endless climber game for Android and PC
+* *C#, Unity, Adobe Photoshop, Pyxel Edit*
+
+___
+
+**[PC Game Skye](https://github.com/ia6382/SKYE-game)**
+* 3D first-person parkour game
+* Made in a group of four programmers 
+* I made the textures, and the level design and helped with the bugs 
+* *C#, Unity, Adobe Photoshop, Git*
+
+___ -->
+
+**[Mobile Game Disco Ant](https://play.google.com/store/apps/details?id=com.outfit7.discoant&hl=en)**
+* Result of the Outfit7 talent camp I attended in 2018 - a two-week summer workshop hosted in Ljubljana 
+* Made a 3D rhythm-based mobile game as a team of 8 people (4 programmers, 2 artists and a game designer)
+* Published on Google Play after further polishing and company's framework integration
+* I programmed the level generation with a parallax scrolling background I was in charge of the Unity project itself: 
+I worked closely with the artists to give them our requirements and integrated their assets into the project and connected them to various scripts made by myself and other programmers
+* I really enjoyed collaborating with the artists, learning about their tools and complementing each other's skills to create amazing art such as particle effects and the cell shading effect
+* Helped the company with their framework integration in Android Studio - made the loading screen with a tip of the day, loading bar and a custom background made by the artists
+* *C#, Java, Unity, Android Studio, Git*
+
+**You can check out all other games I made so far on my [itch.io profile](https://ivan-antesic.itch.io/).**
+
+___
+
 **[Mean-shift Kalman Filter Tracker](https://github.com/ia6382/mean-shift-Kalman-filter-tracker)**
 * Implementation of the mean-shift tracking algorithm combined with the Kalman Filter
 * Noticeably improves tracking in scenarios when the target is partially or fully occluded
@@ -82,14 +119,14 @@ Barycentric interpolation, integration with Gauss–Legendre quadrature method, 
 
 ___
 
-<!-- ___
 **[Data Mining examples](https://github.com/ia6382/data-mining-examples)**
 * Programs developed for particular scenarios using various data mining and machine learning approaches
 * Dendrogram construction using hierarchical clustering, clustering languages with k-medoids, 
 dimension reduction of a dataset using principal component analysis, predicting the buses' arrival time with linear regression, 
 effect of regularisation on logistic regression classifier
 * *Pyhton, NumPy, SciPy, Matplotlib*
-___ -->
+
+___ 
 
 **[Bioinformatics](https://github.com/ia6382/bioinformatics-examples)**
 * Several Python solutions for Rosalind project problems and additional bioinformatics problems
@@ -125,42 +162,6 @@ ___
 
 ___ -->
 
-**[PC Game SKRAT](https://ivan-antesic.itch.io/skrat)**
-* My CS bachelor's thesis: [Game development from the perspective of an independent developer](http://eprints.fri.uni-lj.si/4151/)
-* Studied the video game production process and created a 2D action pixel art game by following the production phases
-* Made all of the assets except the soundtrack myself
-* *C#, Unity, Adobe Photoshop, Pyxel Edit*
-
-___
-
-<!-- ___
-**[Mobile Game SpikeRust](https://ivan-antesic.itch.io/spikerust)**
-* A simple 2D pixel art endless climber game for Android and PC
-* *C#, Unity, Adobe Photoshop, Pyxel Edit*
-
-___
-
-**[PC Game Skye](https://github.com/ia6382/SKYE-game)**
-* 3D first-person parkour game
-* Made in a group of four programmers 
-* I made the textures, and the level design and helped with the bugs 
-* *C#, Unity, Adobe Photoshop, Git*
-
-___ -->
-
-**[Mobile Game Disco Ant](https://play.google.com/store/apps/details?id=com.outfit7.discoant&hl=en)**
-* Result of the Outfit7 talent camp I attended in 2018 - a two-week summer workshop hosted in Ljubljana 
-* Made a 3D rhythm-based mobile game as a team of 8 people (4 programmers, 2 artists and a game designer)
-* Published on Google Play after further polishing and company's framework integration
-* I programmed the level generation with a parallax scrolling background I was in charge of the Unity project itself: 
-I worked closely with the artists to give them our requirements and integrated their assets into the project and connected them to various scripts made by myself and other programmers
-* I really enjoyed collaborating with the artists, learning about their tools and complementing each other's skills to create amazing art such as particle effects and the cell shading effect
-* Helped the company with their framework integration in Android Studio - made the loading screen with a tip of the day, loading bar and a custom background made by the artists
-* *C#, Java, Unity, Android Studio, Git*
-
-**You can check out all other games I made so far on my [itch.io profile](https://ivan-antesic.itch.io/).**
-
-___
 
 ## Other
 

@@ -14,6 +14,6 @@ You can find some of my projects on [this page](./projects.html).
 
 I am passionate about **game development** as it enables me to translate my CS knowledge into a highly creative and artistic environment. Check out a few games I made so far [here](https://ivan-antesic.itch.io/). 
 
-Besides gaming I enjoy hiking 🌄, history 📚 and various handicrafts such as woodworking 🌳 and blacksmithing 🔨. I also keep seven very happy chickens in my backyard 🐔. 
+Besides gaming I enjoy hiking, history and various handicrafts such as woodworking and blacksmithing. I also keep seven very happy chickens in my backyard. 
 
 If you are interested in my work or anything of the above or maybe you just want to discuss the finer points of 1982's Conan the Barbarian feel free to send me an email at [ivan.v.antesic@gmail.com](mailto:ivan.v.antesic@gmail.com).
