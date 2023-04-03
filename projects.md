@@ -58,7 +58,7 @@ ___
 
 ___ -->
 
-**[Mobile Game Disco Ant](https://play.google.com/store/apps/details?id=com.outfit7.discoant&hl=en)**
+**[Mobile Game Disco Ant](https://apptopia.com/google-play/app/com.outfit7.discoant/about)**
 * Result of the Outfit7 talent camp I attended in 2018 - a two-week summer workshop hosted in Ljubljana 
 * Made a 3D rhythm-based mobile game as a team of 8 people (4 programmers, 2 artists and a game designer)
 * Published on Google Play after further polishing and company's framework integration
