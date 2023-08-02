@@ -5,7 +5,7 @@ layout: default
 <br>
 ## Hi there 👋
 
-I'm a recent graduate from the University of Ljubljana, where I got my **MSc in computer science**. 
+I'm a software engineer and a graduate from the University of Ljubljana, where I got my **MSc in computer science**. 
 I am on the lookout for opportunities that will enable me to improve my skills, expand my knowledge and put it to good use on practical and relevant projects.
 
 During my studies I gained an interest in a variety of fields, namely **computer vision**, **computer graphics** and **AI**. Lately, I am focused on the problem of pathfinding in video games, trying out new approaches in a complex game environment. This was also the subject matter of my [master's thesis](https://github.com/ia6382/OpenRA#about).\
